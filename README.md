@@ -6,3 +6,9 @@ I have learnt quite a number of things ranging from Ms Excel, SQL and now portfo
 ## Project Topic: E-commerce Sales Analysis. 
 
 ### My Project Overview: 
+
+
+### Tools Used. 
+- Ms Excel for:
+  1. Data Cleaning
+  2. Data Munching
